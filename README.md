@@ -8,6 +8,7 @@ This mod makes existing animals able to be used as pack animals in caravans.
  - Elephant
  - MegaSloth
  - Thrumbo
+ - Alpaca
 
  ## Future improvements
 
